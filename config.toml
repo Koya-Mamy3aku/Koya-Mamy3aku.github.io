@@ -1,0 +1,10 @@
+baseURL = "https://www.shumatsu7.github.io/"
+languageCode = "ja-jp"
+title = "週末のホームページ"
+theme = "simple"
+enableGitInfo = true
+pygmentsCodeFences = true
+baseurl = "https://koya-mamy3aku.github.io/public/"
+
+[markup.goldmark.renderer]
+  unsafe = true
